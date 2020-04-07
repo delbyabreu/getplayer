@@ -7,19 +7,19 @@ damith.sameera1@gmail.com
 var config = {
 
   //Application Title
-  title : "GetVideo: Download YouTube Videos Free.",
+  title : "GetPlayer: Download YouTube Videos Free.",
 
   //Error Page Title
   errorTitle : "Page not Found (404) - GetVideo",
 
   //Application URL
-  url : "http://example.com",
+  url : "https://getplayer.herokuapp.com",
 
   //Application Description
   description : "Free online download YouTube videos, audio quickly in 1080p, 720p, MP4, 3GP, and more.",
 
   //Footer text
-  footerText : "getVideo &copy; 2018"
+  footerText : "GetPlayer &copy; 2018"
 };
 
 module.exports = config;
